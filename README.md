@@ -2,7 +2,13 @@
 
 This is an animated template with Tailwind CSS - I used the HTML landing page template and added the animations with JavaScript.
 
-Useful for this template: https://htmlformatter.com/
+Used for this template: 
+* https://htmlformatter.com/
+* https://fontawesome.com/search
+* https://randomuser.me/
+* https://michalsnik.github.io/aos/
+* https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/
+
 
 README.md below is from the template itself. 
 
